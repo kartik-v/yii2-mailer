@@ -10,6 +10,3 @@ A mail management module for Yii Framework 2 that offers the following features:
 - Ability to create, parse and replace tags in templates before sending mails.
 - Admin dashobard to administer mailer queues and templates
 - Can be integrated with yii user management modules for mail management or any application that requires a better way to manage mails.
-
-
-## _Moved to [communityii\yii2-mailer](https://github.com/communityii/yii2-mailer)_
